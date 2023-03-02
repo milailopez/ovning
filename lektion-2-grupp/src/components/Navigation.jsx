@@ -3,7 +3,7 @@ import React from 'react'
 const Navigation = () => {
   return (
     <nav className='nav'>
-      <div>
+      <div className='hamburger'>
         <span></span><span></span><span></span>
       </div>
     </nav>
