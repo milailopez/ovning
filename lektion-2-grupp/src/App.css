@@ -1,9 +1,18 @@
-.app {
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.App {
     min-height: 100dvh;
+    display: flex;
+    flex-direction: column;
 }
 
 section {
-    height: 300px;
+    flex-grow: 1;
+    
 }
 
 .hero {
