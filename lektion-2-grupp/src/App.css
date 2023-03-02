@@ -1,8 +1,19 @@
+section {
+    height: 300px;
+}
+
 .hero {
     background-color: skyblue;
+}
 
+.portfolio {
+    background-color: pink;
 }
 
 .about {
     background-color: beige;
+}
+
+.contact {
+    background-color: tomato;
 }

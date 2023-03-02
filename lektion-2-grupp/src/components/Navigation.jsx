@@ -2,9 +2,9 @@ import React from 'react'
 
 const Navigation = () => {
   return (
-    <div>
-      
-    </div>
+    <nav className='nav'>
+      Hamburgare
+    </nav>
   )
 }
 
