@@ -1,3 +1,7 @@
+.app {
+    min-height: 100dvh;
+}
+
 section {
     height: 300px;
 }
